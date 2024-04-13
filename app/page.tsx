@@ -94,21 +94,21 @@ const onNext = ()=> {
         image="/imgs/3.jpg" 
         id={3} 
         name="Nike" 
-        onClick={() => setItemActive(2)}
+        onClick={() => setItemActive(3)}
         />
          <SliderThumbnailItem 
         itemActive={itemActive} 
         image="/imgs/4.jpg" 
         id={4} 
         name="Nike" 
-        onClick={() => setItemActive(2)}
+        onClick={() => setItemActive(4)}
         />
          <SliderThumbnailItem 
         itemActive={itemActive} 
         image="/imgs/5.jpg" 
         id={5} 
         name="Nike" 
-        onClick={() => setItemActive(2)}
+        onClick={() => setItemActive(5)}
         />
       </ul>
     </div>
