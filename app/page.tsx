@@ -40,35 +40,35 @@ const onNext = ()=> {
         id={2} 
         image="/imgs/2.jpg"
         brand="Nike"
-        name="Campus"
-        desc="Diseñado en colaboración con Human Made, el equipo adidas Campus es pionero en lo que respecta a calzado urbano. Destaca con tu par perfecto.
+        name="Air Force one"
+        desc="El fulgor vive en el Nike Air Force 1 ’07, el OG de básquetbol que le da un toque fresco a lo que mejor conoces: revestimientos con costuras duraderas, acabados impecables y la cantidad perfecta de destellos para que brilles.
         "
         />
           <SliderItem 
         itemActive={itemActive} 
         id={3} 
         image="/imgs/3.jpg"
-        brand="Adidas"
-        name="Campus"
-        desc="Diseñado en colaboración con Human Made, el equipo adidas Campus es pionero en lo que respecta a calzado urbano. Destaca con tu par perfecto.
+        brand="Nike"
+        name="Free RN 2018"
+        desc="Los Nike Free RN 2018 ofrecen un ajuste aún más adaptable que antes. El material elástico en la parte superior se adapta a tus movimientos, al tiempo que el patrón gráfico tri-star en la suela se ajusta a cada paso para brindar una pisada con soporte y flexibilidad donde más los necesitas.
         "
         />
           <SliderItem 
         itemActive={itemActive} 
         id={4} 
         image="/imgs/4.jpg"
-        brand="Adidas"
-        name="Campus"
-        desc="Diseñado en colaboración con Human Made, el equipo adidas Campus es pionero en lo que respecta a calzado urbano. Destaca con tu par perfecto.
+        brand="Nike"
+        name="Retro 1"
+        desc="El Air Jordan 1 Retro High renueva el calzado clásico, y te ofrece un nuevo look con una sensación familiar. Los materiales con nuevos colores y texturas aportan una expresión moderna al favorito de siempre.
         "
         />
          <SliderItem 
         itemActive={itemActive} 
         id={5} 
         image="/imgs/5.jpg"
-        brand="Adidas"
-        name="Campus"
-        desc="Diseñado en colaboración con Human Made, el equipo adidas Campus es pionero en lo que respecta a calzado urbano. Destaca con tu par perfecto.
+        brand="Nike"
+        name="Retro 1"
+        desc="Inspirada en el AJ1 original, esta edición de corte mid mantiene el look icónico que te encanta, y los colores selectos y el cuero impecable le dan una identidad distintiva.
         "
         />
       </ul>
